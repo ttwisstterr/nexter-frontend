@@ -1,5 +1,4 @@
 # Course: [Advanced CSS and SASS](https://www.udemy.com/advanced-css-and-sass/)
----
 
 ## Tools used in this course:
 1. CSS and SASS
