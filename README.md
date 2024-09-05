@@ -1,5 +1,4 @@
 # Course: [Advanced CSS and SASS](https://www.udemy.com/advanced-css-and-sass/)
-## Author: Jonas Schmedtmann
 ---
 
 ## Tools used in this course:
@@ -12,4 +11,4 @@
 
 
 ---
-##### [Learn this course from UDEMY](https://www.udemy.com/advanced-css-and-sass/)
+##### [Learn this course from UDEMY by Jonas Schmedtman](https://www.udemy.com/advanced-css-and-sass/)
